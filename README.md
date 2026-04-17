@@ -1,7 +1,7 @@
-# 👋 Hi, I'm Bhavani
+# 👋 Hi, I'm Bhavani Gachinmath
 
-🎓 Computer Science Student  
-💻 Interested in AI, ML & Web Development  
+🎓 Computer Science and design Student  
+💻 Interested in AI, ML , fullstack Web Development 
 🚀 Currently working on projects using Django 
 
 
