@@ -19,3 +19,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-yellow?style=for-the-badge&logo=python)
+![Django](https://img.shields.io/badge/django-green?style=for-the-badge&logo=django)
+![HTML](https://img.shields.io/badge/html5-orange?style=for-the-badge&logo=html5)
+![CSS](https://img.shields.io/badge/css3-blue?style=for-the-badge&logo=css3)
+![JavaScript](https://img.shields.io/badge/javascript-yellow?style=for-the-badge&logo=javascript)
+
+## 📈 GitHub Stats:
+![Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
+
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical)
