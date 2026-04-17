@@ -27,6 +27,6 @@ Here are some ideas to get you started:
 ![JavaScript](https://img.shields.io/badge/javascript-yellow?style=for-the-badge&logo=javascript)
 
 ## 📈 GitHub Stats:
-![Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
+![Stats](https://github-readme-stats.vercel.app/api?username=bhavanigachinmath&show_icons=true&theme=radical)
 
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical)
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=bhavanigachinmath&theme=radical)
