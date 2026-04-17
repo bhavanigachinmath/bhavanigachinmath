@@ -1,4 +1,9 @@
-## Hi there 👋
+# 👋 Hi, I'm Bhavani
+
+🎓 Computer Science Student  
+💻 Interested in AI, ML & Web Development  
+🚀 Currently working on projects using Django 
+
 
 <!--
 **bhavanigachinmath/bhavanigachinmath** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
